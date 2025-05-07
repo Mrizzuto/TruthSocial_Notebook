@@ -1,0 +1,1095 @@
+{
+  "account_info": {
+    "handle": "ProudBoysStatenIsland",
+    "id": "108388992833818883",
+    "display_name": "Proud Boys Staten Island",
+    "bio": "<p>Official Truth of the Proud Boys Staten Island. The Raritan Bay Boys.</p>",
+    "follower_count": 7538,
+    "following_count": 7157,
+    "statuses_count": 280,
+    "created_at": "2022-05-30T04:26:18.361Z",
+    "verified": false,
+    "location": "Raritan Bay",
+    "website": " ProudBoysStatenIsland@protonmail.com"
+  },
+  "group_memberships": [
+    {
+      "group_id": "110458370786669323",
+      "group_name": "Unknown Group",
+      "post_count": 8
+    },
+    {
+      "group_id": "110536978315972961",
+      "group_name": "Unknown Group",
+      "post_count": 1
+    },
+    {
+      "group_id": "110413729240200432",
+      "group_name": "Unknown Group",
+      "post_count": 1
+    },
+    {
+      "group_id": "110815398943950085",
+      "group_name": "Unknown Group",
+      "post_count": 1
+    },
+    {
+      "group_id": "110408406610189135",
+      "group_name": "Unknown Group",
+      "post_count": 1
+    },
+    {
+      "group_id": "110254487612914477",
+      "group_name": "Unknown Group",
+      "post_count": 1
+    },
+    {
+      "group_id": "110392402977989316",
+      "group_name": "Unknown Group",
+      "post_count": 1
+    },
+    {
+      "group_id": "110228354005031735",
+      "group_name": "Unknown Group",
+      "post_count": 1
+    }
+  ],
+  "interactions": {
+    "replies_to": [
+      {
+        "account_id": "108222711476800992",
+        "handle": "",
+        "reply_count": 5
+      },
+      {
+        "account_id": "108720058103447336",
+        "handle": "",
+        "reply_count": 4
+      },
+      {
+        "account_id": "108319417192282543",
+        "handle": "",
+        "reply_count": 4
+      },
+      {
+        "account_id": "108832909223394773",
+        "handle": "",
+        "reply_count": 3
+      },
+      {
+        "account_id": "107838455557149179",
+        "handle": "",
+        "reply_count": 3
+      },
+      {
+        "account_id": "107893527332623138",
+        "handle": "",
+        "reply_count": 3
+      },
+      {
+        "account_id": "108789504664023477",
+        "handle": "",
+        "reply_count": 3
+      },
+      {
+        "account_id": "107962569417238297",
+        "handle": "",
+        "reply_count": 3
+      },
+      {
+        "account_id": "107848330883822689",
+        "handle": "",
+        "reply_count": 3
+      },
+      {
+        "account_id": "108478056089214340",
+        "handle": "",
+        "reply_count": 3
+      },
+      {
+        "account_id": "107842461632652440",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "108229659583363168",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "108541598761009600",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "108482966946269752",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "107845288844201850",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "108195427494548934",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "107839119302135980",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "108535195102005968",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "107834186362581326",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "107883636042389935",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "108324610124387362",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "108427841686801234",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "107877245313480707",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "108001144070994278",
+        "handle": "",
+        "reply_count": 2
+      },
+      {
+        "account_id": "112728400215045939",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "110968957614480614",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107838938153900451",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107866800631644020",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "109160307806529708",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108496477229902456",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "109593138428855376",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "109422324257252973",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107912082388915567",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108343964516445040",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108346732320177317",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107940281773154781",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107871024470490277",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107837432734207306",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108048274357753547",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108836119231855383",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108320175835111833",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108006294647246355",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108813093786553574",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107834240453555154",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107894401305992819",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107842714835947983",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108744209330213098",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108322886271611752",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107876932326631352",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108213389542324182",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108654412599809605",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108340459271536844",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108199695786598921",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107837523360103746",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108618506562003960",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107834327252406947",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107988986709497895",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108448092555485918",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107842922700535422",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107837245448609372",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108341117550522481",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107856792670959339",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107838199421141822",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107849311486717188",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107845944258063779",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "108307943126036741",
+        "handle": "",
+        "reply_count": 1
+      },
+      {
+        "account_id": "107843132448211396",
+        "handle": "",
+        "reply_count": 1
+      }
+    ],
+    "mentioned": [
+      {
+        "account_id": "108029813621607015",
+        "handle": "BlayneFields",
+        "mention_count": 8
+      },
+      {
+        "account_id": "108541598761009600",
+        "handle": "Brendiesue",
+        "mention_count": 8
+      },
+      {
+        "account_id": "108222711476800992",
+        "handle": "outlaw4evr",
+        "mention_count": 6
+      },
+      {
+        "account_id": "108832909223394773",
+        "handle": "JaeTheGent",
+        "mention_count": 4
+      },
+      {
+        "account_id": "107883636042389935",
+        "handle": "Mister_Crane",
+        "mention_count": 4
+      },
+      {
+        "account_id": "108319417192282543",
+        "handle": "InfantryVet1starmored",
+        "mention_count": 4
+      },
+      {
+        "account_id": "108001144070994278",
+        "handle": "17HUNTER",
+        "mention_count": 4
+      },
+      {
+        "account_id": "108240329077599489",
+        "handle": "FrankieUSA1",
+        "mention_count": 3
+      },
+      {
+        "account_id": "107838455557149179",
+        "handle": "GypsyRydr",
+        "mention_count": 3
+      },
+      {
+        "account_id": "107893527332623138",
+        "handle": "Patra",
+        "mention_count": 3
+      },
+      {
+        "account_id": "108789504664023477",
+        "handle": "abrahamdrinking",
+        "mention_count": 3
+      },
+      {
+        "account_id": "107962569417238297",
+        "handle": "msMac5",
+        "mention_count": 3
+      },
+      {
+        "account_id": "108535195102005968",
+        "handle": "Kevincox66",
+        "mention_count": 3
+      },
+      {
+        "account_id": "108439623295753407",
+        "handle": "Amon83",
+        "mention_count": 3
+      },
+      {
+        "account_id": "108478056089214340",
+        "handle": "IHeartAntifa",
+        "mention_count": 3
+      },
+      {
+        "account_id": "107842461632652440",
+        "handle": "ccollino",
+        "mention_count": 2
+      },
+      {
+        "account_id": "107901861715317794",
+        "handle": "r1derbike",
+        "mention_count": 2
+      },
+      {
+        "account_id": "107835014345527456",
+        "handle": "koadawg",
+        "mention_count": 2
+      },
+      {
+        "account_id": "108833731375536253",
+        "handle": "MAGAtrumpwarrior",
+        "mention_count": 2
+      },
+      {
+        "account_id": "108327553015094311",
+        "handle": "Mongo3804",
+        "mention_count": 2
+      },
+      {
+        "account_id": "107845288844201850",
+        "handle": "jakeruiz",
+        "mention_count": 2
+      },
+      {
+        "account_id": "108195427494548934",
+        "handle": "TheMainMan33",
+        "mention_count": 2
+      },
+      {
+        "account_id": "107837809148541383",
+        "handle": "AnndreaQuaill",
+        "mention_count": 2
+      },
+      {
+        "account_id": "107834186362581326",
+        "handle": "Pritchard107",
+        "mention_count": 2
+      },
+      {
+        "account_id": "108324610124387362",
+        "handle": "alchammy",
+        "mention_count": 2
+      },
+      {
+        "account_id": "108427841686801234",
+        "handle": "Stealth_Patriot",
+        "mention_count": 2
+      },
+      {
+        "account_id": "107877245313480707",
+        "handle": "Mbawthen9",
+        "mention_count": 2
+      },
+      {
+        "account_id": "108388992833818883",
+        "handle": "ProudBoysStatenIsland",
+        "mention_count": 1
+      },
+      {
+        "account_id": "112728400215045939",
+        "handle": "Red_Erick",
+        "mention_count": 1
+      },
+      {
+        "account_id": "110968957614480614",
+        "handle": "OgPatriot89",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107838938153900451",
+        "handle": "MICKGIG",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107866800631644020",
+        "handle": "StanPetrikis",
+        "mention_count": 1
+      },
+      {
+        "account_id": "109160307806529708",
+        "handle": "Briankaplinski",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108496477229902456",
+        "handle": "fearlesstrumpsupporter19",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107912082388915567",
+        "handle": "Dieselman1",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107834521395682439",
+        "handle": "proudboys",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107837213776484690",
+        "handle": "windmillcancer",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108343964516445040",
+        "handle": "ReneeAntaya",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108346732320177317",
+        "handle": "Kimmy1125",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107940281773154781",
+        "handle": "BobnManTx",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107837198750673008",
+        "handle": "Concerned_American",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108246663306027502",
+        "handle": "Richardthepatriot",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107871024470490277",
+        "handle": "cdjon3s",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108048274357753547",
+        "handle": "marinewife1776",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108836119231855383",
+        "handle": "ThepissedoffPatriot",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108320175835111833",
+        "handle": "markirwin",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108006294647246355",
+        "handle": "bsninaz",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108485102024915421",
+        "handle": "realgovnewsom40",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108813093786553574",
+        "handle": "SWP101",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107834240453555154",
+        "handle": "brazco",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107894401305992819",
+        "handle": "Niddy87",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107842714835947983",
+        "handle": "TrueNorthVibes",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108744209330213098",
+        "handle": "SpartanApplications",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107834448533620042",
+        "handle": "RedPillPharmacist",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108213389542324182",
+        "handle": "1Trumpteer",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107841855128432472",
+        "handle": "toneman111",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107837627364274630",
+        "handle": "proudboy",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108376423718894217",
+        "handle": "ProudBoyCharlie",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108442176324674345",
+        "handle": "ProudBoysOhio",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108654412599809605",
+        "handle": "jimcc66",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108199695786598921",
+        "handle": "TXHighplains",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107837523360103746",
+        "handle": "Rynracamo",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107834327252406947",
+        "handle": "SummerBreeze",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107988986709497895",
+        "handle": "Pinkbunny65",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107780257626128497",
+        "handle": "realDonaldTrump",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108448092555485918",
+        "handle": "SimplySteph",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107842922700535422",
+        "handle": "AnthonyDiChristofero",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107837245448609372",
+        "handle": "kride67",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108341117550522481",
+        "handle": "Helmettails",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108328894739779330",
+        "handle": "Whitekracker",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107849311486717188",
+        "handle": "awake4good",
+        "mention_count": 1
+      },
+      {
+        "account_id": "108307943126036741",
+        "handle": "redpillrage",
+        "mention_count": 1
+      },
+      {
+        "account_id": "107843132448211396",
+        "handle": "truth1220",
+        "mention_count": 1
+      }
+    ],
+    "reposted": [
+      {
+        "account_id": "108388992833818883",
+        "handle": "ProudBoysStatenIsland",
+        "repost_count": 16
+      },
+      {
+        "account_id": "108451407998188578",
+        "handle": "kyproudboys",
+        "repost_count": 5
+      },
+      {
+        "account_id": "108339621281102313",
+        "handle": "Magachef23",
+        "repost_count": 5
+      },
+      {
+        "account_id": "108211388631343812",
+        "handle": "zachdefense",
+        "repost_count": 4
+      },
+      {
+        "account_id": "107780257626128497",
+        "handle": "realDonaldTrump",
+        "repost_count": 2
+      },
+      {
+        "account_id": "108785114868000389",
+        "handle": "BlackBoldUncensored",
+        "repost_count": 2
+      },
+      {
+        "account_id": "112668263929487340",
+        "handle": "gardenstatedeplorables",
+        "repost_count": 1
+      },
+      {
+        "account_id": "114040519337663315",
+        "handle": "PBClovis",
+        "repost_count": 1
+      },
+      {
+        "account_id": "112369273406174841",
+        "handle": "texanranger",
+        "repost_count": 1
+      },
+      {
+        "account_id": "107835820161320002",
+        "handle": "Teenebean",
+        "repost_count": 1
+      },
+      {
+        "account_id": "107845780355183970",
+        "handle": "DivineNergy",
+        "repost_count": 1
+      },
+      {
+        "account_id": "107974970088711611",
+        "handle": "EasyMoney247",
+        "repost_count": 1
+      },
+      {
+        "account_id": "112865125153515282",
+        "handle": "PBBritannia",
+        "repost_count": 1
+      },
+      {
+        "account_id": "107834177296444559",
+        "handle": "MichaelArgano",
+        "repost_count": 1
+      },
+      {
+        "account_id": "108372230257163915",
+        "handle": "NiceGuyFafo",
+        "repost_count": 1
+      },
+      {
+        "account_id": "110846109936696591",
+        "handle": "GeorgiaProudBoys",
+        "repost_count": 1
+      },
+      {
+        "account_id": "107843809737125591",
+        "handle": "ladytriaxle",
+        "repost_count": 1
+      },
+      {
+        "account_id": "109781586256416285",
+        "handle": "BluegrassProudBoys",
+        "repost_count": 1
+      },
+      {
+        "account_id": "108320367300053163",
+        "handle": "j6PatriotNews",
+        "repost_count": 1
+      },
+      {
+        "account_id": "107837389161471093",
+        "handle": "realamericasvoice",
+        "repost_count": 1
+      },
+      {
+        "account_id": "107834752222880408",
+        "handle": "gatewaypundit",
+        "repost_count": 1
+      },
+      {
+        "account_id": "107837809148541383",
+        "handle": "AnndreaQuaill",
+        "repost_count": 1
+      },
+      {
+        "account_id": "107837697025902489",
+        "handle": "Gapeach3102",
+        "repost_count": 1
+      },
+      {
+        "account_id": "108296659598852580",
+        "handle": "jah1184",
+        "repost_count": 1
+      }
+    ]
+  },
+  "topics": [
+    {
+      "tag": "maga",
+      "count": 8
+    },
+    {
+      "tag": "proudboys",
+      "count": 7
+    },
+    {
+      "tag": "fuckantifa",
+      "count": 6
+    },
+    {
+      "tag": "darkmaga",
+      "count": 5
+    },
+    {
+      "tag": "trump",
+      "count": 4
+    },
+    {
+      "tag": "newjersey",
+      "count": 4
+    },
+    {
+      "tag": "statenisland",
+      "count": 4
+    },
+    {
+      "tag": "trump2025",
+      "count": 3
+    },
+    {
+      "tag": "dc",
+      "count": 3
+    },
+    {
+      "tag": "alllivesmatter",
+      "count": 3
+    },
+    {
+      "tag": "washingtondc",
+      "count": 3
+    },
+    {
+      "tag": "fuckblm",
+      "count": 3
+    },
+    {
+      "tag": "alllivesmatterexceptantifa",
+      "count": 3
+    },
+    {
+      "tag": "proudboyschapters",
+      "count": 3
+    },
+    {
+      "tag": "maha",
+      "count": 2
+    },
+    {
+      "tag": "makeamericagreatagain",
+      "count": 2
+    },
+    {
+      "tag": "trump2024",
+      "count": 2
+    },
+    {
+      "tag": "fjb",
+      "count": 2
+    },
+    {
+      "tag": "nyc",
+      "count": 1
+    },
+    {
+      "tag": "maga2025",
+      "count": 1
+    }
+  ],
+  "analysis_timestamp": "2025-05-07T09:18:42.744276",
+  "posts_analyzed": 200,
+  "recent_posts": [
+    {
+      "id": "114440240059693683",
+      "created_at": "2025-05-02T20:58:03.331Z",
+      "type": "repost",
+      "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ProudBoysStatenIsland\" class=\"u-url mention\">@<span>ProudBoysStatenIsland</span></a></span>Join your Brothers today👌   If you are in NY or NJ email ProudBoysStatenIsland<span class=\"h-card\"><a href=\"https://truthsocial.com/@protonmail\" class=\"u-url mention\">@<span>protonmail</span></a></span>.com or ProudBoysNewJersey<span class=\"h-card\"><a href=\"https://truthsocial.com/@protonmail\" class=\"u-url mention\">@<span>protonmail</span></a></span>.com   If you are anywhere else in the Country go to ProudBoys.Club <a href=\"https://truthsocial.com/tags/ProudBoys\" class=\"mention hashtag\" rel=\"tag\">#<span>ProudBoys</span></a> <a href=\"https://truthsocial.com/tags/Maga\" class=\"mention hashtag\" rel=\"tag\">#<span>Maga</span></a> <a href=\"https://truthsocial.com/tags/Trump\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump</span></a> <a href=\"https://truthsocial.com/tags/Maha\" class=\"mention hashtag\" rel=\"tag\">#<span>Maha</span></a> <a href=\"https://truthsocial.com/tags/fuckantifa\" class=\"mention hashtag\" rel=\"tag\">#<span>fuckantifa</span></a> <a href=\"https://truthsocial.com/tags/NewJersey\" class=\"mention hashtag\" rel=\"tag\">#<span>NewJersey</span></a> <a href=\"https://truthsocial.com/tags/StatenIsland\" class=\"mention hashtag\" rel=\"tag\">#<span>StatenIsland</span></a> <a href=\"https://truthsocial.com/tags/NYC\" class=\"mention hashtag\" rel=\"tag\">#<span>NYC</span></a></p>",
+      "url": "https://truthsocial.com/@ProudBoysStatenIsland/114440240059693683",
+      "engagement": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "114440237625708705",
+      "created_at": "2025-05-02T20:57:26.193Z",
+      "type": "repost",
+      "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ProudBoysStatenIsland\" class=\"u-url mention\">@<span>ProudBoysStatenIsland</span></a></span><a href=\"https://truthsocial.com/tags/Trump2024\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump2024</span></a>  <a href=\"https://truthsocial.com/tags/Maga\" class=\"mention hashtag\" rel=\"tag\">#<span>Maga</span></a> <a href=\"https://truthsocial.com/tags/ProudBoys\" class=\"mention hashtag\" rel=\"tag\">#<span>ProudBoys</span></a>  <a href=\"https://truthsocial.com/tags/ProudBoysChapters\" class=\"mention hashtag\" rel=\"tag\">#<span>ProudBoysChapters</span></a> <a href=\"https://truthsocial.com/tags/FJB\" class=\"mention hashtag\" rel=\"tag\">#<span>FJB</span></a> <a href=\"https://truthsocial.com/tags/DarkMaga\" class=\"mention hashtag\" rel=\"tag\">#<span>DarkMaga</span></a> <a href=\"https://truthsocial.com/tags/MakeAmericaGreatAgain\" class=\"mention hashtag\" rel=\"tag\">#<span>MakeAmericaGreatAgain</span></a> <a href=\"https://truthsocial.com/tags/Newjersey\" class=\"mention hashtag\" rel=\"tag\">#<span>Newjersey</span></a> <a href=\"https://truthsocial.com/tags/StatenIsland\" class=\"mention hashtag\" rel=\"tag\">#<span>StatenIsland</span></a></p>",
+      "url": "https://truthsocial.com/@ProudBoysStatenIsland/114440237625708705",
+      "engagement": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "114440235211182617",
+      "created_at": "2025-05-02T20:56:49.350Z",
+      "type": "repost",
+      "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ProudBoysStatenIsland\" class=\"u-url mention\">@<span>ProudBoysStatenIsland</span></a></span>We have been getting a lot of emails from Men trying to join our Club who are having a hard time contacting their nearest Chapter.  Here is the link to the Chapter list  <a href=\"https://t.me/ProudBoyChapters\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">t.me/ProudBoyChapters</span><span class=\"invisible\"></span></a> <br/>There is another list being passed around that is missing over 50 Chapters and has some sketchy links on it. Stick to this one. 👌                                                      </p><p>    Stay away from any \"official\" website and never give anyone except your local Chapter your contact info. Our Fraternity hasn't had a national structure since 2021 when it was disbanded. All Chapters are autonomous entities. Anyone telling you different is either a retard or a fed.<br/>Most likely they are both. <a href=\"https://truthsocial.com/tags/MAGA\" class=\"mention hashtag\" rel=\"tag\">#<span>MAGA</span></a> <a href=\"https://truthsocial.com/tags/ProudBoys\" class=\"mention hashtag\" rel=\"tag\">#<span>ProudBoys</span></a> <a href=\"https://truthsocial.com/tags/fuckantifa\" class=\"mention hashtag\" rel=\"tag\">#<span>fuckantifa</span></a> <a href=\"https://truthsocial.com/tags/NewJersey\" class=\"mention hashtag\" rel=\"tag\">#<span>NewJersey</span></a> <a href=\"https://truthsocial.com/tags/StatenIsland\" class=\"mention hashtag\" rel=\"tag\">#<span>StatenIsland</span></a> <a href=\"https://truthsocial.com/tags/MAHA\" class=\"mention hashtag\" rel=\"tag\">#<span>MAHA</span></a></p>",
+      "url": "https://truthsocial.com/@ProudBoysStatenIsland/114440235211182617",
+      "engagement": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "114373053865000820",
+      "created_at": "2025-04-21T00:11:43.361Z",
+      "type": "post",
+      "content": "<p>Join your Brothers today👌   If you are in NY or NJ email ProudBoysStatenIsland<span class=\"h-card\"><a href=\"https://truthsocial.com/@protonmail\" class=\"u-url mention\">@<span>protonmail</span></a></span>.com or ProudBoysNewJersey<span class=\"h-card\"><a href=\"https://truthsocial.com/@protonmail\" class=\"u-url mention\">@<span>protonmail</span></a></span>.com   If you are anywhere else in the Country go to ProudBoys.Club <a href=\"https://truthsocial.com/tags/ProudBoys\" class=\"mention hashtag\" rel=\"tag\">#<span>ProudBoys</span></a> <a href=\"https://truthsocial.com/tags/Maga\" class=\"mention hashtag\" rel=\"tag\">#<span>Maga</span></a> <a href=\"https://truthsocial.com/tags/Trump\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump</span></a> <a href=\"https://truthsocial.com/tags/Maha\" class=\"mention hashtag\" rel=\"tag\">#<span>Maha</span></a> <a href=\"https://truthsocial.com/tags/fuckantifa\" class=\"mention hashtag\" rel=\"tag\">#<span>fuckantifa</span></a> <a href=\"https://truthsocial.com/tags/NewJersey\" class=\"mention hashtag\" rel=\"tag\">#<span>NewJersey</span></a> <a href=\"https://truthsocial.com/tags/StatenIsland\" class=\"mention hashtag\" rel=\"tag\">#<span>StatenIsland</span></a> <a href=\"https://truthsocial.com/tags/NYC\" class=\"mention hashtag\" rel=\"tag\">#<span>NYC</span></a></p>",
+      "url": "https://truthsocial.com/@ProudBoysStatenIsland/114373053865000820",
+      "engagement": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 13
+      }
+    },
+    {
+      "id": "114281264144303566",
+      "created_at": "2025-04-04T19:08:23.374Z",
+      "type": "repost",
+      "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@gardenstatedeplorables\" class=\"u-url mention\">@<span>gardenstatedeplorables</span></a></span></p>",
+      "url": "https://truthsocial.com/@ProudBoysStatenIsland/114281264144303566",
+      "engagement": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "114280363276538210",
+      "created_at": "2025-04-04T15:19:17.224Z",
+      "type": "repost",
+      "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@ProudBoysStatenIsland\" class=\"u-url mention\">@<span>ProudBoysStatenIsland</span></a></span></p>",
+      "url": "https://truthsocial.com/@ProudBoysStatenIsland/114280363276538210",
+      "engagement": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "114217384165606456",
+      "created_at": "2025-03-24T12:22:52.253Z",
+      "type": "repost",
+      "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@kyproudboys\" class=\"u-url mention\">@<span>kyproudboys</span></a></span>Support your local <a href=\"https://truthsocial.com/tags/ProudBoys\" class=\"mention hashtag\" rel=\"tag\">#<span>ProudBoys</span></a> </p><p><a href=\"https://t.me/ProudBoyChapters\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">t.me/ProudBoyChapters</span><span class=\"invisible\"></span></a></p>",
+      "url": "https://truthsocial.com/@ProudBoysStatenIsland/114217384165606456",
+      "engagement": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "114145518612047768",
+      "created_at": "2025-03-11T19:46:30.931Z",
+      "type": "repost",
+      "content": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@PBClovis\" class=\"u-url mention\">@<span>PBClovis</span></a></span></p>",
+      "url": "https://truthsocial.com/@ProudBoysStatenIsland/114145518612047768",
+      "engagement": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "114141064345964143",
+      "created_at": "2025-03-11T00:53:44.227Z",
+      "type": "post",
+      "content": "<p>Workers started demolishing BLM Plaza in Washington D.C. today. 🔥 <a href=\"https://truthsocial.com/tags/Maga\" class=\"mention hashtag\" rel=\"tag\">#<span>Maga</span></a> <a href=\"https://truthsocial.com/tags/DarkMaga\" class=\"mention hashtag\" rel=\"tag\">#<span>DarkMaga</span></a> <a href=\"https://truthsocial.com/tags/WashingtonDC\" class=\"mention hashtag\" rel=\"tag\">#<span>WashingtonDC</span></a> <a href=\"https://truthsocial.com/tags/DC\" class=\"mention hashtag\" rel=\"tag\">#<span>DC</span></a> <a href=\"https://truthsocial.com/tags/Trump\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump</span></a> #<a href=\"https://truthsocial.com/tags/Trump2025\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump2025</span></a> <a href=\"https://truthsocial.com/tags/FuckBLM\" class=\"mention hashtag\" rel=\"tag\">#<span>FuckBLM</span></a>  <a href=\"https://truthsocial.com/tags/Fuckantifa\" class=\"mention hashtag\" rel=\"tag\">#<span>Fuckantifa</span></a> <a href=\"https://truthsocial.com/tags/AllLivesMatter\" class=\"mention hashtag\" rel=\"tag\">#<span>AllLivesMatter</span></a> <a href=\"https://truthsocial.com/tags/AllLivesMatterExceptantifa\" class=\"mention hashtag\" rel=\"tag\">#<span>AllLivesMatterExceptantifa</span></a> <a href=\"https://truthsocial.com/tags/ProudBoys\" class=\"mention hashtag\" rel=\"tag\">#<span>ProudBoys</span></a></p>",
+      "url": "https://truthsocial.com/@ProudBoysStatenIsland/114141064345964143",
+      "engagement": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      },
+      "group": {
+        "id": "110458370786669323",
+        "title": ""
+      }
+    },
+    {
+      "id": "114141012894659027",
+      "created_at": "2025-03-11T00:40:39.140Z",
+      "type": "post",
+      "content": "<p>Workers started demolishing BLM Plaza in Washington D.C. today. 🔥 <a href=\"https://truthsocial.com/tags/Maga\" class=\"mention hashtag\" rel=\"tag\">#<span>Maga</span></a> <a href=\"https://truthsocial.com/tags/DarkMaga\" class=\"mention hashtag\" rel=\"tag\">#<span>DarkMaga</span></a> <a href=\"https://truthsocial.com/tags/WashingtonDC\" class=\"mention hashtag\" rel=\"tag\">#<span>WashingtonDC</span></a> <a href=\"https://truthsocial.com/tags/DC\" class=\"mention hashtag\" rel=\"tag\">#<span>DC</span></a> <a href=\"https://truthsocial.com/tags/Trump\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump</span></a> #<a href=\"https://truthsocial.com/tags/Trump2025\" class=\"mention hashtag\" rel=\"tag\">#<span>Trump2025</span></a> <a href=\"https://truthsocial.com/tags/FuckBLM\" class=\"mention hashtag\" rel=\"tag\">#<span>FuckBLM</span></a>  <a href=\"https://truthsocial.com/tags/Fuckantifa\" class=\"mention hashtag\" rel=\"tag\">#<span>Fuckantifa</span></a> <a href=\"https://truthsocial.com/tags/AllLivesMatter\" class=\"mention hashtag\" rel=\"tag\">#<span>AllLivesMatter</span></a> <a href=\"https://truthsocial.com/tags/AllLivesMatterExceptantifa\" class=\"mention hashtag\" rel=\"tag\">#<span>AllLivesMatterExceptantifa</span></a> <a href=\"https://truthsocial.com/tags/ProudBoys\" class=\"mention hashtag\" rel=\"tag\">#<span>ProudBoys</span></a></p>",
+      "url": "https://truthsocial.com/@ProudBoysStatenIsland/114141012894659027",
+      "engagement": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    }
+  ]
+}
